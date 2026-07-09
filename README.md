@@ -38,7 +38,7 @@
 - 회원/예약/충전기/패널티/공지/문의/대시보드 8개 파트 구현
 - 운영 환경 고려한 예외처리 (본인 해제 불가 등)
 
-[Backend](https://github.com/woogi0821/ChargerReservation_Back) | [Frontend](https://github.com/woogi0821/ChargerReservation_Front)
+[Backend](https://github.com/chu723204-coder/ChargerReservation_Back) | [Frontend](https://github.com/chu723204-coder/ChargerReservation_Front)
 
 ## 📫 연락처
 - Email: (chu310204@naver.com)
