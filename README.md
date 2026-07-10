@@ -41,6 +41,7 @@
 [Backend](https://github.com/chu723204-coder/ChargerReservation_Back) | [Frontend](https://github.com/chu723204-coder/ChargerReservation_Front)
 
 ## 📫 연락처
-- Email: (chu310204@naver.com)
-- DevLink Portfolio :(https://drive.google.com/file/d/1hPq3OPHKpVkvSH0IsUW0cQtFoXmmo2qO/view?usp=drive_link)
-- ChargeNow Portfolio :(https://drive.google.com/file/d/1MPd7_JvRvOZRcre-BB2UuK6kTRbdl8wJ/view?usp=drive_link)
+
+- Email: chu310204@naver.com
+- DevLink Portfolio: [바로가기](https://drive.google.com/file/d/1hPq3OPHKpVkvSH0IsUW0cQtFoXmmo2qO/view?usp=drive_link)
+- ChargeNow Portfolio: [바로가기](https://drive.google.com/file/d/1MPd7_JvRvOZRcre-BB2UuK6kTRbdl8wJ/view?usp=drive_link)
